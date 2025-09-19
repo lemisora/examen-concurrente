@@ -1,0 +1,48 @@
+=== CALIFICACIONES APROBATORIAS ===
+
+Alumno 1: 9.0 - APROBADO
+Alumno 2: 8.2 - APROBADO
+Alumno 3: 8.1 - APROBADO
+Alumno 4: 6.3 - APROBADO
+Alumno 5: 9.4 - APROBADO
+Alumno 6: 6.4 - APROBADO
+Alumno 7: 8.9 - APROBADO
+Alumno 8: 6.3 - APROBADO
+Alumno 9: 6.4 - APROBADO
+Alumno 11: 7.0 - APROBADO
+Alumno 14: 8.0 - APROBADO
+Alumno 15: 6.5 - APROBADO
+Alumno 17: 9.2 - APROBADO
+Alumno 18: 6.9 - APROBADO
+Alumno 19: 9.0 - APROBADO
+Alumno 20: 7.0 - APROBADO
+
+
+===== RESUMEN FINAL =====
+Total de alumnos procesados: 20
+Total de aprobados: 16
+Total de reprobados: 4
+
+Calificaciones aprobatorias:
+  1. 9.0
+  2. 8.2
+  3. 8.1
+  4. 6.3
+  5. 9.4
+  6. 6.4
+  7. 8.9
+  8. 6.3
+  9. 6.4
+  10. 7.0
+  11. 8.0
+  12. 6.5
+  13. 9.2
+  14. 6.9
+  15. 9.0
+  16. 7.0
+
+===== ESTADÍSTICAS DE APROBADOS =====
+Promedio: 7.66
+Calificación más alta: 9.4
+Calificación más baja: 6.3
+Porcentaje de aprobación: 80.0%
